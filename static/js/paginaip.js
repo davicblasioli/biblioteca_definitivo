@@ -1,6 +1,6 @@
 
-const ipPython = "http://10.92.3.212:5000"
-const ipPython2 = "http://10.92.3.212:5000"
+const ipPython = "http://192.168.1.134:5000"
+const ipPython2 = "http://192.168.1.134:5000"
 
 // ESSA PÁGINA É ONDE FICA SALVA A VARIÁVEL RESPONSÁVEL POR
 // ARMAZENAR O URL DO IP DO SERVIDOR
